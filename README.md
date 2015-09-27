@@ -1,9 +1,8 @@
-Scriptforge
+LuaForge
 ========
 
-Minecraft Forge in Python and Lua
-
-Computercraft Forums post: http://www.computercraft.info/forums2/index.php?/topic/5488-/
+Minecraft Forge in Lua
+The unofficial continuation of Tiin57R's ScriptForge project.
 
 Apache License 2.0 (BCEL):
 
