@@ -1,7 +1,7 @@
 LuaForge
 ========
 
-Minecraft Forge in Lua
+Minecraft Forge in Lua:
 The unofficial continuation of Tiin57R's ScriptForge project.
 
 Apache License 2.0 (BCEL):
